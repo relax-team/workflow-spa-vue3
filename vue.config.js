@@ -88,7 +88,6 @@ module.exports = {
       })
       .end();
 
-
     // 使用pug
     config.module.rule('pug')
       .test(/\.pug$/)
