@@ -92,7 +92,7 @@
     "mockjs": "1.0.1-beta3",
     "node-sass": "^4.9.0",
     "plop": "2.3.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-html-loader": "^1.1.5",
     "pug-plain-loader": "^1.0.0",
     "runjs": "^4.3.2",
